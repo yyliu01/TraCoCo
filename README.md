@@ -1,4 +1,4 @@
-# Translation Consistent Semi-supervised Segmentation for 3D Medical Images 
+# Translation Consistent Semi-supervised Segmentation for 3D Medical Images (TraCoCo)
 ## Results on the Left Atrium dataset (SOTA).
 * The training set consists of 16 labelled scans and 64 unlabelled scans and the testing set includes 20 scans.
 
