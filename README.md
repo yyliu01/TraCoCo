@@ -1,6 +1,6 @@
 # Translation Consistent Semi-supervised Segmentation for 3D Medical Images 
 ## Results on the Left Atrium dataset (SOTA).
-* The training set consists of 16 labeled scans and 64 unlabeled scans and the testing set includes 20 scans.
+* The training set consists of 16 labelled scans and 64 unlabelled scans and the testing set includes 20 scans.
 
 |Methods|DICE (%) | Jaccard (%) | ASD (voxel) | 95HD (voxel)|Reference|Released Date|
 |---|---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 |[MC-Net](https://arxiv.org/pdf/2103.02911.pdf)|90.34| 82.48| 1.77| 6.00|MICCAI2021|2021-03|
 |Ours [(training log)](https://1drv.ms/t/s!AsvBenvUFxO3hmYgPKEa2_w4F5BC?e=LPCIHZ) |90.94| 83.47| 1.79| 5.49|Arxiv|2022-03 |
 
-* The training set consists of 8 labeled scans and 72 unlabeled scans and the testing set includes 20 scans.
+* The training set consists of 8 labelled scans and 72 unlabelled scans and the testing set includes 20 scans.
 
 |Methods|DICE (%) | Jaccard (%) | ASD (voxel) | 95HD (voxel)|Reference|Released Date|
 |---|---|---|---|---|---|---|
