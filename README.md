@@ -27,4 +27,4 @@ The arxiv paper address: [http://arxiv.org/abs/2203.14523](http://arxiv.org/abs/
 
 Please note, parts of the tables are borrowed from [here](https://github.com/HiLab-git/DTC/blob/master/README.md).
 
-## Code and data will be availabel soon.
+## Code and data will be available soon.
