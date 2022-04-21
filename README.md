@@ -1,5 +1,5 @@
-# Translation Consistent Semi-supervised Segmentation for 3D Medical Images (TraCoCo)
-The arxiv paper address: [http://arxiv.org/abs/2203.14523](http://arxiv.org/abs/2203.14523)
+# TraCoCo
+[Translation Consistent Semi-supervised Segmentation for 3D Medical Images](http://arxiv.org/abs/2203.14523)
 
 ## Installation
 Please install the dependencies based on the installation document.
