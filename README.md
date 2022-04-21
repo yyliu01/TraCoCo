@@ -31,7 +31,17 @@ Please follow this instruction document to reproduce our results.
 |[MC-Net](https://arxiv.org/pdf/2103.02911.pdf)|87.71|78.31|2.18| 9.36|MICCAI2021|
 |Ours [(training log)](https://1drv.ms/t/s!AsvBenvUFxO3hmUIHM9ntFPoqDbw?e=efvg3h) |89.29| 80.82| 2.28| 6.92|Arxiv|
 
-Please note, parts of the tables are borrowed from [here](https://github.com/HiLab-git/DTC/blob/master/README.md).
+Note: parts of the tables are borrowed from [here](https://github.com/HiLab-git/DTC/blob/master/README.md).
+
+## Citation
+```bibtex
+@article{liu2022translation,
+  title={Translation Consistent Semi-supervised Segmentation for 3D Medical Images},
+  author={Liu, Yuyuan and Tian, Yu and Wang, Chong and Chen, Yuanhong and Liu, Fengbei and Belagiannis, Vasileios and Carneiro, Gustavo},
+  journal={arXiv preprint arXiv:2203.14523},
+  year={2022}
+}
+```
 
 #### TODO
 - [x] Code for Left Atrium (LA)
