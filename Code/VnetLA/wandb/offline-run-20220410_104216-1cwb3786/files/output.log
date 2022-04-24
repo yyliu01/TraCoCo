@@ -1,0 +1,26 @@
+[[1mwandb[22m][[1mINFO[22m] Redirects installed.
+[[1mwandb[22m][[1mINFO[22m] run started, returning control to user process
+Traceback (most recent call last):
+  File "/home/yuyuan/work_space/Exercise_3/medical_semi_seg/co-training-la/Code/Vnet/main.py", line 78, in <module>
+    main(cmd_line_var)
+  File "/home/yuyuan/work_space/Exercise_3/medical_semi_seg/co-training-la/Code/Vnet/main.py", line 56, in main
+    trainer.run()
+  File "/home/yuyuan/work_space/Exercise_3/medical_semi_seg/co-training-la/Code/Vnet/train.py", line 400, in run
+    iter_num=self.iter_num_count)
+  File "/home/yuyuan/work_space/Exercise_3/medical_semi_seg/co-training-la/Code/Vnet/train.py", line 234, in rock_and_roll
+    unsup_outputs1, _ = model1(volume_batch+noise)
+  File "/home/yuyuan/anaconda3/envs/pyedog1976/lib/python3.7/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/home/yuyuan/work_space/Exercise_3/medical_semi_seg/co-training-la/Code/Vnet/Model/Vnet/Vnet.py", line 250, in forward
+    out = self.decoder(features)
+  File "/home/yuyuan/work_space/Exercise_3/medical_semi_seg/co-training-la/Code/Vnet/Model/Vnet/Vnet.py", line 234, in decoder
+    x9 = self.dropout(x9)
+  File "/home/yuyuan/anaconda3/envs/pyedog1976/lib/python3.7/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/home/yuyuan/anaconda3/envs/pyedog1976/lib/python3.7/site-packages/torch/nn/modules/dropout.py", line 142, in forward
+    return F.dropout3d(input, self.p, self.training, self.inplace)
+  File "/home/yuyuan/anaconda3/envs/pyedog1976/lib/python3.7/site-packages/torch/nn/functional.py", line 1134, in dropout3d
+    return _VF.feature_dropout_(input, p, training) if inplace else _VF.feature_dropout(input, p, training)
+RuntimeError: CUDA out of memory. Tried to allocate 246.00 MiB (GPU 0; 10.76 GiB total capacity; 9.28 GiB already allocated; 14.38 MiB free; 9.43 GiB reserved in total by PyTorch)
+[[1mwandb[22m][[1mINFO[22m] got exitcode: 1
+[[1mwandb[22m][[1mINFO[22m] restore

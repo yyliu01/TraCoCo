@@ -1,0 +1,13 @@
+easydict==1.9
+h5py==3.5.0
+imageio==2.9.0
+matplotlib==3.5.1
+MedPy==0.4.0
+nibabel==3.2.1
+numpy==1.19.5
+opencv_python==4.5.1.48
+Pillow==9.1.0
+protobuf==3.20.0
+pynrrd==0.4.2
+wandb==0.12.14
+tqdm==4.59.0

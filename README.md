@@ -1,13 +1,13 @@
 # TraCoCo
 [Translation Consistent Semi-supervised Segmentation for 3D Medical Images](http://arxiv.org/abs/2203.14523)
 
-## Installation
-Please install the dependencies based on the installation document.
+### Installation
+Please install the dependencies and dataset based on the [installation](./docs/installation.md) document.
 
-## Getting start
-Please follow this instruction document to reproduce our results.
+### Getting start
+Please follow this [instruction](./docs/before_start.md) document to reproduce our results.
 
-## Results on the Left Atrium dataset (SOTA).
+### Results on the Left Atrium dataset
 * The training set consists of 16 labelled scans and 64 unlabelled scans and the testing set includes 20 scans.
 
 |Methods|DICE (%) | Jaccard (%) | ASD (voxel) | 95HD (voxel)|Reference|
@@ -31,9 +31,12 @@ Please follow this instruction document to reproduce our results.
 |[MC-Net](https://arxiv.org/pdf/2103.02911.pdf)|87.71|78.31|2.18| 9.36|MICCAI2021|
 |Ours [(training log)](https://1drv.ms/t/s!AsvBenvUFxO3hmUIHM9ntFPoqDbw?e=efvg3h) |89.29| 80.82| 2.28| 6.92|Arxiv|
 
-Note: parts of the tables are borrowed from [here](https://github.com/HiLab-git/DTC/blob/master/README.md).
-
-## Citation
+Note: parts of the tables are borrowed from [here](https://github.com/HiLab-git/DTC/blob/master/README.md), and 
+our fully training details (i.e., checkpoints and training logs) are available in this [one-drive](https://1drv.ms/u/s!AsvBenvUFxO3hn0BLwjDwSG3Q3pE?e=fT0Df9) link.
+### Acknowledgement
+The code is partially borrowed from [CPS](https://github.com/charlesCXK/TorchSemiSeg) and
+[UA-MT](https://github.com/yulequan/UA-MT). Many thanks for their great work. :)
+### Citation
 ```bibtex
 @article{liu2022translation,
   title={Translation Consistent Semi-supervised Segmentation for 3D Medical Images},
@@ -46,3 +49,4 @@ Note: parts of the tables are borrowed from [here](https://github.com/HiLab-git/
 #### TODO
 - [x] Code for Left Atrium (LA)
 - [ ] Code for Brain Tumor Segmentation Challenge 2019 (BRaTS19)
+
