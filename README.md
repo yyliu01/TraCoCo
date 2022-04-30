@@ -31,7 +31,7 @@ Please follow this [instruction](./docs/before_start.md) document to reproduce o
   |[MC-Net](https://arxiv.org/pdf/2103.02911.pdf)|87.71|78.31|2.18| 9.36|MICCAI2021|
   |Ours [(training log)](https://1drv.ms/t/s!AsvBenvUFxO3hmUIHM9ntFPoqDbw?e=efvg3h) |89.29| 80.82| 2.28| 6.92|Arxiv|
 
-Note: parts of the tables are borrowed from [here](https://github.com/HiLab-git/DTC/blob/master/README.md), and our train/val index follows [UA-MT](https://github.com/yulequan/UA-MT). Our fully training details (i.e., checkpoints and training logs) are available in this [one-drive](https://1drv.ms/u/s!AsvBenvUFxO3hn0BLwjDwSG3Q3pE?e=fT0Df9) link.
+Note: parts of the tables are borrowed from [here](https://github.com/HiLab-git/DTC/blob/master/README.md), and our train/val sample index follows [UA-MT](https://github.com/yulequan/UA-MT). Our fully training details (i.e., checkpoints and training logs) are available in this [one-drive](https://1drv.ms/u/s!AsvBenvUFxO3hn0BLwjDwSG3Q3pE?e=fT0Df9) link.
 ### Acknowledgement
 The code is partially borrowed from [CPS](https://github.com/charlesCXK/TorchSemiSeg) and
 [UA-MT](https://github.com/yulequan/UA-MT). Many thanks for their great work. :)
