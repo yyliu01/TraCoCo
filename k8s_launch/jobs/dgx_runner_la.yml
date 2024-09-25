@@ -1,0 +1,52 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: medical-3d-seg-la
+  namespace: "your name space"
+spec:
+  template:
+    spec:
+      restartPolicy: Never
+      containers:
+        - name: medical-3d-seg-la
+          image: "your docker position"
+          stdin: true
+          tty: true
+          args:
+            [
+              "python", "Code/VnetLA/main.py", 
+              "--pvc", "--labeled_num=32", "--unsup_weight=1.0", "--max_iterations=12000"
+            ]
+          resources:
+            limits:
+              nvidia.com/gpu: 1
+              memory: 32Gi
+              cpu: 8000m
+            requests:
+              memory: 32Gi
+              cpu: 8000m
+          env:
+            - name: GOOGLE_APPLICATION_CREDENTIALS
+              value: /etc/gcp/credentials.json
+          volumeMounts:
+            - name: gcp-credentials
+              mountPath: /etc/gcp
+              readOnly: true
+            - name: dataset-volume
+              mountPath: /pvc
+            - mountPath: /dev/shm
+              name: shared-memory-hack
+      volumes:
+        - name: gcp-credentials
+          secret:
+            secretName: gcp
+            items:
+              - key: data-manager
+                path: credentials.json
+        - name: dataset-volume
+          persistentVolumeClaim:
+            claimName: la-dataset
+        - name: shared-memory-hack
+          emptyDir:
+            medium: Memory
+
