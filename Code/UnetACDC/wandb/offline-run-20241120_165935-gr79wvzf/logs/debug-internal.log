@@ -1,8 +1,0 @@
-{"time":"2024-11-20T16:59:35.497951172Z","level":"INFO","msg":"using version","core version":"0.18.7"}
-{"time":"2024-11-20T16:59:35.497982254Z","level":"INFO","msg":"created symlink","path":"/home/engs2831/work_space/TraCoCo/Code/UnetACDC/wandb/offline-run-20241120_165935-gr79wvzf/logs/debug-core.log"}
-{"time":"2024-11-20T16:59:35.605230587Z","level":"INFO","msg":"created new stream","id":"gr79wvzf"}
-{"time":"2024-11-20T16:59:35.605275943Z","level":"INFO","msg":"stream: started","id":"gr79wvzf"}
-{"time":"2024-11-20T16:59:35.605300279Z","level":"INFO","msg":"sender: started","stream_id":"gr79wvzf"}
-{"time":"2024-11-20T16:59:35.605327248Z","level":"INFO","msg":"handler: started","stream_id":"gr79wvzf"}
-{"time":"2024-11-20T16:59:35.605298912Z","level":"INFO","msg":"writer: Do: started","stream_id":"gr79wvzf"}
-{"time":"2024-11-20T16:59:35.623427058Z","level":"INFO","msg":"Starting system monitor"}

@@ -1,8 +1,0 @@
-{"time":"2024-11-20T17:23:12.340517579Z","level":"INFO","msg":"using version","core version":"0.18.7"}
-{"time":"2024-11-20T17:23:12.340546Z","level":"INFO","msg":"created symlink","path":"/home/engs2831/work_space/TraCoCo/Code/UnetACDC/wandb/offline-run-20241120_172312-6ugpyyvi/logs/debug-core.log"}
-{"time":"2024-11-20T17:23:12.447605255Z","level":"INFO","msg":"created new stream","id":"6ugpyyvi"}
-{"time":"2024-11-20T17:23:12.447646875Z","level":"INFO","msg":"stream: started","id":"6ugpyyvi"}
-{"time":"2024-11-20T17:23:12.44766938Z","level":"INFO","msg":"sender: started","stream_id":"6ugpyyvi"}
-{"time":"2024-11-20T17:23:12.447667874Z","level":"INFO","msg":"writer: Do: started","stream_id":"6ugpyyvi"}
-{"time":"2024-11-20T17:23:12.447711851Z","level":"INFO","msg":"handler: started","stream_id":"6ugpyyvi"}
-{"time":"2024-11-20T17:23:12.457576816Z","level":"INFO","msg":"Starting system monitor"}
