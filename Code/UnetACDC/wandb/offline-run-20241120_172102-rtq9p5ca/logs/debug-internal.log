@@ -1,0 +1,15 @@
+{"time":"2024-11-20T17:21:02.594920916Z","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-20T17:21:02.594944837Z","level":"INFO","msg":"created symlink","path":"/home/engs2831/work_space/TraCoCo/Code/UnetACDC/wandb/offline-run-20241120_172102-rtq9p5ca/logs/debug-core.log"}
+{"time":"2024-11-20T17:21:02.706273127Z","level":"INFO","msg":"created new stream","id":"rtq9p5ca"}
+{"time":"2024-11-20T17:21:02.706339413Z","level":"INFO","msg":"stream: started","id":"rtq9p5ca"}
+{"time":"2024-11-20T17:21:02.7063993Z","level":"INFO","msg":"sender: started","stream_id":"rtq9p5ca"}
+{"time":"2024-11-20T17:21:02.70639258Z","level":"INFO","msg":"writer: Do: started","stream_id":"rtq9p5ca"}
+{"time":"2024-11-20T17:21:02.706437989Z","level":"INFO","msg":"handler: started","stream_id":"rtq9p5ca"}
+{"time":"2024-11-20T17:21:02.722116227Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-20T17:21:04.365645608Z","level":"INFO","msg":"stream: closing","id":"rtq9p5ca"}
+{"time":"2024-11-20T17:21:04.36575298Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-20T17:21:04.366383174Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-20T17:21:04.366892277Z","level":"INFO","msg":"handler: closed","stream_id":"rtq9p5ca"}
+{"time":"2024-11-20T17:21:04.36691358Z","level":"INFO","msg":"writer: Close: closed","stream_id":"rtq9p5ca"}
+{"time":"2024-11-20T17:21:04.366940744Z","level":"INFO","msg":"sender: closed","stream_id":"rtq9p5ca"}
+{"time":"2024-11-20T17:21:04.366984683Z","level":"INFO","msg":"stream: closed","id":"rtq9p5ca"}

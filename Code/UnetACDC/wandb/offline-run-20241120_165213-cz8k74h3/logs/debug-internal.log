@@ -1,0 +1,15 @@
+{"time":"2024-11-20T16:52:13.941761483Z","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-20T16:52:13.941803511Z","level":"INFO","msg":"created symlink","path":"/home/engs2831/work_space/TraCoCo/Code/UnetACDC/wandb/offline-run-20241120_165213-cz8k74h3/logs/debug-core.log"}
+{"time":"2024-11-20T16:52:14.054872163Z","level":"INFO","msg":"created new stream","id":"cz8k74h3"}
+{"time":"2024-11-20T16:52:14.054933927Z","level":"INFO","msg":"stream: started","id":"cz8k74h3"}
+{"time":"2024-11-20T16:52:14.054994696Z","level":"INFO","msg":"sender: started","stream_id":"cz8k74h3"}
+{"time":"2024-11-20T16:52:14.054996359Z","level":"INFO","msg":"writer: Do: started","stream_id":"cz8k74h3"}
+{"time":"2024-11-20T16:52:14.055022786Z","level":"INFO","msg":"handler: started","stream_id":"cz8k74h3"}
+{"time":"2024-11-20T16:52:14.070182993Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-20T16:52:18.268967331Z","level":"INFO","msg":"stream: closing","id":"cz8k74h3"}
+{"time":"2024-11-20T16:52:18.269049311Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-20T16:52:18.269794021Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-20T16:52:18.270386713Z","level":"INFO","msg":"handler: closed","stream_id":"cz8k74h3"}
+{"time":"2024-11-20T16:52:18.270424375Z","level":"INFO","msg":"writer: Close: closed","stream_id":"cz8k74h3"}
+{"time":"2024-11-20T16:52:18.270447046Z","level":"INFO","msg":"sender: closed","stream_id":"cz8k74h3"}
+{"time":"2024-11-20T16:52:18.270526951Z","level":"INFO","msg":"stream: closed","id":"cz8k74h3"}

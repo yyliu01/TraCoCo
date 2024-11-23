@@ -1,0 +1,15 @@
+{"time":"2024-11-20T16:49:28.861153385Z","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-20T16:49:28.861194398Z","level":"INFO","msg":"created symlink","path":"/home/engs2831/work_space/TraCoCo/Code/UnetACDC/wandb/offline-run-20241120_164928-qnonbb45/logs/debug-core.log"}
+{"time":"2024-11-20T16:49:28.975330523Z","level":"INFO","msg":"created new stream","id":"qnonbb45"}
+{"time":"2024-11-20T16:49:28.975398896Z","level":"INFO","msg":"stream: started","id":"qnonbb45"}
+{"time":"2024-11-20T16:49:28.975448772Z","level":"INFO","msg":"writer: Do: started","stream_id":"qnonbb45"}
+{"time":"2024-11-20T16:49:28.975467662Z","level":"INFO","msg":"sender: started","stream_id":"qnonbb45"}
+{"time":"2024-11-20T16:49:28.975483906Z","level":"INFO","msg":"handler: started","stream_id":"qnonbb45"}
+{"time":"2024-11-20T16:49:28.999041409Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-20T16:49:29.268846627Z","level":"INFO","msg":"stream: closing","id":"qnonbb45"}
+{"time":"2024-11-20T16:49:29.268882502Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-20T16:49:29.26987913Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-20T16:49:29.27029818Z","level":"INFO","msg":"handler: closed","stream_id":"qnonbb45"}
+{"time":"2024-11-20T16:49:29.270326675Z","level":"INFO","msg":"writer: Close: closed","stream_id":"qnonbb45"}
+{"time":"2024-11-20T16:49:29.270342237Z","level":"INFO","msg":"sender: closed","stream_id":"qnonbb45"}
+{"time":"2024-11-20T16:49:29.270384157Z","level":"INFO","msg":"stream: closed","id":"qnonbb45"}

@@ -1,0 +1,15 @@
+{"time":"2024-11-20T17:26:12.396303816Z","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-20T17:26:12.396350749Z","level":"INFO","msg":"created symlink","path":"/home/engs2831/work_space/TraCoCo/Code/UnetACDC/wandb/offline-run-20241120_172612-ogj1ri7l/logs/debug-core.log"}
+{"time":"2024-11-20T17:26:12.504920095Z","level":"INFO","msg":"created new stream","id":"ogj1ri7l"}
+{"time":"2024-11-20T17:26:12.504962207Z","level":"INFO","msg":"stream: started","id":"ogj1ri7l"}
+{"time":"2024-11-20T17:26:12.505026656Z","level":"INFO","msg":"writer: Do: started","stream_id":"ogj1ri7l"}
+{"time":"2024-11-20T17:26:12.505020031Z","level":"INFO","msg":"sender: started","stream_id":"ogj1ri7l"}
+{"time":"2024-11-20T17:26:12.504992164Z","level":"INFO","msg":"handler: started","stream_id":"ogj1ri7l"}
+{"time":"2024-11-20T17:26:12.524597391Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-20T17:34:07.3943916Z","level":"INFO","msg":"stream: closing","id":"ogj1ri7l"}
+{"time":"2024-11-20T17:34:07.39445592Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-20T17:34:07.3956265Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-20T17:34:07.396106186Z","level":"INFO","msg":"handler: closed","stream_id":"ogj1ri7l"}
+{"time":"2024-11-20T17:34:07.396127564Z","level":"INFO","msg":"writer: Close: closed","stream_id":"ogj1ri7l"}
+{"time":"2024-11-20T17:34:07.396148266Z","level":"INFO","msg":"sender: closed","stream_id":"ogj1ri7l"}
+{"time":"2024-11-20T17:34:07.396252672Z","level":"INFO","msg":"stream: closed","id":"ogj1ri7l"}

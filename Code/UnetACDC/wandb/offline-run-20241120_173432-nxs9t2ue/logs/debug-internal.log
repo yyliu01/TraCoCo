@@ -1,0 +1,8 @@
+{"time":"2024-11-20T17:34:32.514008108Z","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-20T17:34:32.514052688Z","level":"INFO","msg":"created symlink","path":"/home/engs2831/work_space/TraCoCo/Code/UnetACDC/wandb/offline-run-20241120_173432-nxs9t2ue/logs/debug-core.log"}
+{"time":"2024-11-20T17:34:32.62874556Z","level":"INFO","msg":"created new stream","id":"nxs9t2ue"}
+{"time":"2024-11-20T17:34:32.628823802Z","level":"INFO","msg":"stream: started","id":"nxs9t2ue"}
+{"time":"2024-11-20T17:34:32.628849243Z","level":"INFO","msg":"handler: started","stream_id":"nxs9t2ue"}
+{"time":"2024-11-20T17:34:32.628887021Z","level":"INFO","msg":"writer: Do: started","stream_id":"nxs9t2ue"}
+{"time":"2024-11-20T17:34:32.628879731Z","level":"INFO","msg":"sender: started","stream_id":"nxs9t2ue"}
+{"time":"2024-11-20T17:34:32.645002884Z","level":"INFO","msg":"Starting system monitor"}

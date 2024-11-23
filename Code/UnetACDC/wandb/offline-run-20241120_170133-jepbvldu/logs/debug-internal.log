@@ -1,0 +1,15 @@
+{"time":"2024-11-20T17:01:33.918637334Z","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-20T17:01:33.918664396Z","level":"INFO","msg":"created symlink","path":"/home/engs2831/work_space/TraCoCo/Code/UnetACDC/wandb/offline-run-20241120_170133-jepbvldu/logs/debug-core.log"}
+{"time":"2024-11-20T17:01:34.026877846Z","level":"INFO","msg":"created new stream","id":"jepbvldu"}
+{"time":"2024-11-20T17:01:34.026914756Z","level":"INFO","msg":"stream: started","id":"jepbvldu"}
+{"time":"2024-11-20T17:01:34.026959068Z","level":"INFO","msg":"handler: started","stream_id":"jepbvldu"}
+{"time":"2024-11-20T17:01:34.026980605Z","level":"INFO","msg":"sender: started","stream_id":"jepbvldu"}
+{"time":"2024-11-20T17:01:34.026980449Z","level":"INFO","msg":"writer: Do: started","stream_id":"jepbvldu"}
+{"time":"2024-11-20T17:01:34.037309677Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-20T17:01:35.712122826Z","level":"INFO","msg":"stream: closing","id":"jepbvldu"}
+{"time":"2024-11-20T17:01:35.712207856Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-20T17:01:35.712911937Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-20T17:01:35.71307979Z","level":"INFO","msg":"handler: closed","stream_id":"jepbvldu"}
+{"time":"2024-11-20T17:01:35.713093403Z","level":"INFO","msg":"writer: Close: closed","stream_id":"jepbvldu"}
+{"time":"2024-11-20T17:01:35.713108361Z","level":"INFO","msg":"sender: closed","stream_id":"jepbvldu"}
+{"time":"2024-11-20T17:01:35.713138533Z","level":"INFO","msg":"stream: closed","id":"jepbvldu"}

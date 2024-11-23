@@ -1,0 +1,44 @@
+{
+  "os": "Linux-6.8.0-48-generic-x86_64-with-glibc2.35",
+  "python": "3.10.15",
+  "startedAt": "2024-11-20T16:54:25.474145Z",
+  "program": "/home/engs2831/work_space/TraCoCo/Code/UnetACDC/main.py",
+  "codePath": "main.py",
+  "root": "/home/engs2831/work_space/TraCoCo/Code/UnetACDC",
+  "host": "engs-27846",
+  "username": "engs2831",
+  "executable": "/home/engs2831/anaconda3/envs/pyedog1976/bin/python3.10",
+  "codePathLocal": "main.py",
+  "cpu_count": 6,
+  "cpu_count_logical": 12,
+  "gpu": "NVIDIA GeForce RTX 2080 SUPER",
+  "gpu_count": 2,
+  "disk": {
+    "/": {
+      "total": "248333651968",
+      "used": "88964681728"
+    }
+  },
+  "memory": {
+    "total": "16426532864"
+  },
+  "cpu": {
+    "count": 6,
+    "countLogical": 12
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 2080 SUPER",
+      "memoryTotal": "8589934592",
+      "cudaCores": 3072,
+      "architecture": "Turing"
+    },
+    {
+      "name": "Quadro P400",
+      "memoryTotal": "2147483648",
+      "cudaCores": 256,
+      "architecture": "Pascal"
+    }
+  ],
+  "cudaVersion": "12.6"
+}
