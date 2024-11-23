@@ -24,7 +24,9 @@ Our training logs and checkpoints are in this [result](./docs/results.md) page.
 ### Acknowledgement
 The code is partially borrowed from [CPS](https://github.com/charlesCXK/TorchSemiSeg) and
 [UA-MT](https://github.com/yulequan/UA-MT). Many thanks for their great work. :)
+
 ### Citation
+Please consider citing our paper in your publications if it helps your research.
 ```bibtex
 @article{liu2022translation,
   title={Translation Consistent Semi-supervised Segmentation for 3D Medical Images},
