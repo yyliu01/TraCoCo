@@ -21,11 +21,7 @@ Please follow this [instruction](./docs/before_start.md) document to reproduce o
 ### Results
 Our training logs and checkpoints are in this [result](./docs/results.md) page.
 
-### Acknowledgement
-The code is partially borrowed from [CPS](https://github.com/charlesCXK/TorchSemiSeg) and
-[UA-MT](https://github.com/yulequan/UA-MT). Many thanks for their great work. :)
-
-### Citation
+### Citation & Acknowledgement
 Please consider citing our paper in your publications if it helps your research.
 ```bibtex
 @article{liu2022translation,
@@ -35,6 +31,9 @@ Please consider citing our paper in your publications if it helps your research.
   year={2022}
 }
 ```
+The code is partially borrowed from [CPS](https://github.com/charlesCXK/TorchSemiSeg) and
+[UA-MT](https://github.com/yulequan/UA-MT). Many thanks for their great work. :)
+
 
 #### TODO
 - [x] Code for Left Atrium (LA)
